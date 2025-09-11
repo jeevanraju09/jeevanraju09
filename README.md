@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Jeevan Raju
 
-<!--
-**jeevanraju09/jeevanraju09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Full Stack Developer**, passionate about building scalable web applications and exploring modern technologies.  
+Currently pursuing **B.Tech in Computer Science**, I enjoy learning new tools, working on projects, and contributing to the developer community.  
 
-Here are some ideas to get you started:
+## 🚀 Languages and Tools I Use
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Where to find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/jeevanraju09)
+
+---
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanraju09&layout=compact&theme=dark&langs_count=6&hide=c,html,css)
