@@ -18,6 +18,3 @@ Currently pursuing **B.Tech in Computer Science**, I enjoy learning new tools, w
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/jeevanraju09)
 
 ---
-
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanraju09&layout=compact&theme=dark&langs_count=6&hide=c,html,css)
